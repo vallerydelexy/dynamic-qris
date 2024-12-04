@@ -43,4 +43,4 @@ const result = qrisDinamis.makeFile(qris, { nominal: '5000', path: 'output/qris.
 | `path`    | false    | Custom output path resulting from dynamic Qris image generation. Only works in `makeFile`. |
 
 ## Author
-[Rachma Azis](https://razisek.com)
+[Rizki Aprita](https://aprita.web.id)
