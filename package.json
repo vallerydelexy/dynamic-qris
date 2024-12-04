@@ -4,8 +4,9 @@
   "description": "Make static QRIS to dynamic QRIS",
   "main": "index.js",
   "dependencies": {
-    "jimp": "^0.16.1",
-    "qrcode": "^1.4.4"
+    "@types/qrcode": "^1.5.5",
+    "jimp": "^1.6.0",
+    "qrcode": "^1.5.4"
   },
   "exports": {
     ".": {
@@ -24,14 +25,14 @@
   "keywords": [
     "qris",
     "qris-parser",
-    "dinamis",
+    "qris-generator",
     "qris-dinamis",
     "payment"
   ],
   "author": "Rachma Azis",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/razisek/Qris-Dinamis/issues"
+    "url": "https://github.com/vallerydelexy/dynamic-qris/issues"
   },
-  "homepage": "https://github.com/razisek/Qris-Dinamis#readme"
+  "homepage": "https://github.com/vallerydelexy/dynamic-qris#readme"
 }
