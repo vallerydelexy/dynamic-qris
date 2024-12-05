@@ -4,7 +4,7 @@ Make static QRIS to dynamic QRIS
 
 ## Instalation
 ```bash
-npm i qris-dinamis
+npm i dynamic-qris
 ```
 
 ## Import Module
